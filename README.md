@@ -5,7 +5,7 @@
 The following Project investigates the use of Bayesian Optimzation to tune Parameters of the XOR Neural Network see below:
 
 
-<img src="https://github.com/LawrenceMMStewart/Bayesian_Optimization/blob/master/Images/XOR.png" width="450">
+<img src="https://github.com/LawrenceMMStewart/M3C1-Networks-and-Random-Walks/blob/master/Images/plot1.png" width="450">
 
 Where <img src="https://github.com/LawrenceMMStewart/Bayesian_Optimization/blob/master/Images/inputnode.png" width="30"> is an input node
 <img src="https://github.com/LawrenceMMStewart/Bayesian_Optimization/blob/master/Images/sigmoidnode.png" width="30"> is a sigmoid node with hyper-parameter (scale factor) h. 
