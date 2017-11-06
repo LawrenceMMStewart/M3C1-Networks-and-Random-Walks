@@ -1,0 +1,77 @@
+commit d4c2182049f05815b953166d24d124253cf72ee7
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Wed Nov 1 17:24:00 2017 +0000
+
+    analyze() completed with doc comments - code and comments cleaned up in other funtions. All that remains is to creat the comments for Q4. Also make sure name and docstring requirements are met
+
+commit 594be0ae57b382b513165c2560f1478797c7ffb8
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Wed Nov 1 10:05:18 2017 +0000
+
+    all functions fixed - To do: Make plots nice and write analysis -also clean up comments and delete old code
+
+commit 3a5fe1065a61800e76266251aee87c0fedd72be4
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Wed Nov 1 10:04:38 2017 +0000
+
+    all functions fixed - To do: Make plots nice and write analysis -also clean up comments and delete old code
+
+commit 0add46a3323785b152cc519f4bdc2fb518162d50
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Tue Oct 31 10:37:25 2017 +0000
+
+    Fixed the wall error
+
+commit 4233c8a841c10eb3b6a53af7a73e2eb246d98586
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Mon Oct 30 09:58:17 2017 +0000
+
+    plots made beautiful
+
+commit 7b41f34aa967465d1d4bd084c593d29526892e4c
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Sun Oct 29 18:08:37 2017 +0000
+
+    rwnet2 has been finished -consider not using networkx
+
+commit 4eff180622a5294104d715cf2dc2e3f1cf40f264
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Sun Oct 29 17:46:10 2017 +0000
+
+    removed unneccessary lines
+
+commit 72a3fb3e9251cf9ff1bcf66aa5748620d01bff46
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Sun Oct 29 17:37:21 2017 +0000
+
+    Function fixed - updated comments and make plotting nice
+
+commit 49717451fa533e6ca05f2e3730d165a5b7c1d593
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Sun Oct 29 15:33:51 2017 +0000
+
+    added to rwnet1, walk needs fixing
+
+commit e57e69dccc84778cdb1ce2f7cc3a05d10e0d8365
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Sat Oct 28 19:42:07 2017 +0100
+
+    Fixed assertions and began framework for Q2
+
+commit 4fcbda7cc11488daaf45d92998c6ddf09a5e9614
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Sat Oct 28 13:53:50 2017 +0100
+
+    Ques 1 complete - comments need cleanup
+
+commit 781ad5d1f231daf210eff76be4113f018212c8e7
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Sat Oct 28 11:54:36 2017 +0100
+
+    test - we have made a change and we will commit and push
+
+commit c79f6f61723c4cb103f73c99cacf5e44232e023d
+Author: Lawrence Stewart <lawrencestewarthome@gmail.com>
+Date:   Sat Oct 28 11:52:14 2017 +0100
+
+    Initial commit
