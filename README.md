@@ -7,14 +7,13 @@ The following Project investigates the use of Bayesian Optimzation to tune Param
 
 <img src="https://github.com/LawrenceMMStewart/M3C1-Networks-and-Random-Walks/blob/master/Images/plot1.png" width="450">
 
-Where <img src="https://github.com/LawrenceMMStewart/Bayesian_Optimization/blob/master/Images/inputnode.png" width="30"> is an input node
-<img src="https://github.com/LawrenceMMStewart/Bayesian_Optimization/blob/master/Images/sigmoidnode.png" width="30"> is a sigmoid node with hyper-parameter (scale factor) h. 
+<img src="https://github.com/LawrenceMMStewart/M3C1-Networks-and-Random-Walks/blob/master/Images/plot2.png" width="450">
 
+<img src="https://github.com/LawrenceMMStewart/M3C1-Networks-and-Random-Walks/blob/master/Images/plot3.png" width="450">
 
-The research paper "Bayesian Optimization for Parameter Tuning of the XOR Neural Network" can be found on arXiv at: INSERTLINKHERE.
+<img src="https://github.com/LawrenceMMStewart/M3C1-Networks-and-Random-Walks/blob/master/Images/plot4.png" width="450">
 
-
-
+<img src="https://github.com/LawrenceMMStewart/M3C1-Networks-and-Random-Walks/blob/master/Images/plot5.png" width="450">
 
 
 ### Installing
