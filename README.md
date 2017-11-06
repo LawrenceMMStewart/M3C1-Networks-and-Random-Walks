@@ -26,10 +26,10 @@ The simulation is based upon a unbiased and biased random walk. We select a heig
 * **network(X,Y,dstar,display=False,degree=False)** - Create a network from co-ordinates X,Y of all nodes that link to another node within distance dstar. Display for a plot of the network. Degree for a degree distribution analysis.
 
 
-##Affects of L and A on rate of network growth
+## Effects of L and A on rate of network growth
 
 
-<img src="https://github.com/LawrenceMMStewart/M3C1-Networks-and-Random-Walks/blob/master/Images/plot5.png" width="500">
+<img src="https://github.com/LawrenceMMStewart/M3C1-Networks-and-Random-Walks/blob/master/Images/plot5.png" width="700">
 
 
 
