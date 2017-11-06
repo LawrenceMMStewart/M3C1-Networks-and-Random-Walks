@@ -19,9 +19,9 @@ The simulation is based upon a unbiased and biased random walk. We select a heig
 
 # Contents 
 
-* **rw2d(Nt,M,a,b)** - Perform a 2D Random Walk with Left and Right Biases a,b. Nt=Number of steps, M = number of simultations
-* **rwnet1(H,Hf,a,display=False)** - Build a network using a random walk of right bias a. H is starting drop height. Hf is termination height.
-* **rwnet2(L,H,Hf,a,display=False)** -Build a network using a random walk of right bias a. L is the distance of placed walls from origin. H is starting drop height. Hf is termination height.
+* **rw2d(Nt,M,a,b)** - Perform a 2D Random Walk with Left and Right Biases a,b. Nt=Number of steps, M = number of simultations. Returns E(X),E(Y),E(X^2),E(Y^2),E(XY)
+* **rwnet1(H,Hf,a,display=False)** - Build a network using a random walk of right bias a. H is starting drop height. Hf is termination height. Returns node co-ordinates X,Y and max height of network at each iteration
+* **rwnet2(L,H,Hf,a,display=False)** -Build a network using a random walk of right bias a. L is the distance of placed walls from origin. H is starting drop height. Hf is termination height. Returns node co-ordinates X,Y and max height of network at each iteration 
 * **analyse(H,Hf)** - Produce analysis of rate of increase of varied bias and wall length random walk graphs.
 * **network(X,Y,dstar,display=False,degree=False)** - Create a network from co-ordinates X,Y of all nodes that link to another node within distance dstar. Display for a plot of the network. Degree for a degree distribution analysis.
 
